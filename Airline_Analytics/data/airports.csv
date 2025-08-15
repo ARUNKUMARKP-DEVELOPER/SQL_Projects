@@ -1,0 +1,6 @@
+airport_id,airport_code,airport_name,city,country
+1,JFK,John F. Kennedy Intl,New York,USA
+2,LAX,Los Angeles Intl,Los Angeles,USA
+3,ORD,O'Hare Intl,Chicago,USA
+4,DFW,Dallas/Fort Worth Intl,Dallas,USA
+5,ATL,Hartsfield–Jackson Atlanta Intl,Atlanta,USA

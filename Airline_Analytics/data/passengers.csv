@@ -1,0 +1,11 @@
+passenger_id,first_name,last_name,email,phone,loyalty_points
+1,John,Smith,user1@example.com,+1-202-555-0101,1000
+2,Jane,Doe,user2@example.com,+1-202-555-0102,500
+3,Alex,Johnson,user3@example.com,+1-202-555-0103,200
+4,Mary,Lee,user4@example.com,+1-202-555-0104,1500
+5,Steve,Brown,user5@example.com,+1-202-555-0105,300
+6,Laura,Wilson,user6@example.com,+1-202-555-0106,800
+7,Chris,Davis,user7@example.com,+1-202-555-0107,600
+8,Nina,Taylor,user8@example.com,+1-202-555-0108,450
+9,Tom,Harris,user9@example.com,+1-202-555-0109,900
+10,Sara,Martin,user10@example.com,+1-202-555-0110,750

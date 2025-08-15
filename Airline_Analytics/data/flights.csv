@@ -1,0 +1,6 @@
+flight_id,flight_number,origin_id,destination_id,departure_time,arrival_time,status,aircraft
+1,AA101,1,2,2025-08-01 08:00:00,2025-08-01 11:00:00,On Time,Boeing 737
+2,DL202,2,3,2025-08-02 09:00:00,2025-08-02 12:30:00,Delayed,Airbus A320
+3,UA303,3,4,2025-08-03 10:00:00,2025-08-03 14:00:00,On Time,Boeing 777
+4,SW404,4,5,2025-08-04 11:00:00,2025-08-04 15:00:00,Cancelled,Boeing 737
+5,AA505,5,1,2025-08-05 12:00:00,2025-08-05 16:30:00,Delayed,Airbus A321
