@@ -1,6 +1,6 @@
 # **Advanced Airline Analytics – SQL Project**
 
-## **📌 Project Overview**
+## **Project Overview**
 
 This project demonstrates advanced SQL skills using a simulated airline operations dataset.
 It covers **data analysis**, **report generation**, and **business insights** for the airline industry.
@@ -8,7 +8,7 @@ The focus is on **complex joins**, **window functions**, **CTEs**, **aggregate q
 
 ---
 
-## **📂 Dataset Description**
+## **Dataset Description**
 
 The dataset consists of **four CSV files**:
 
@@ -66,7 +66,13 @@ The dataset consists of **four CSV files**:
 
 ---
 
-## **🎯 Project Objectives**
+## **Entity Relationship Diagrams (ERD)**
+
+![Airline ERD](ER_Diagram.png)
+
+---
+
+## **Project Objectives**
 
 * Track **flight performance** (on-time %, delays, cancellations)
 * Identify **top revenue-generating routes**
@@ -91,12 +97,6 @@ The dataset consists of **four CSV files**:
   * Subqueries
   * Stored Procedures
   * Views
-
----
-
-## **Entity Relationship Diagrams (ERD)**
-
-![Airline ERD](ER_Diagram.png)
 
 ---
 
