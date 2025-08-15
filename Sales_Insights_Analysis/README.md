@@ -2,7 +2,7 @@
 
 This project showcases a data analyst's ability to extract business insights from raw sales data using **SQL**. The analysis is structured around answering key business questions relevant to retail sales.
 
-## 🧾 About Dataset
+## About Dataset
 - Dataset Link: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?select=Sample+-+Superstore.csv)
 
 - dataset Description:
@@ -31,33 +31,34 @@ This project showcases a data analyst's ability to extract business insights fro
     | Profit          | Profit or loss incurred from the sale                 |
 
 
-## 📁 Project Structure
+## Project Structure
 - `data/`: Contains the raw CSV dataset
 - `queries/`: All SQL queries (cleaning, analysis)
 - `dashboard_screenshots/`: Optional visualizations or query outputs
 - `README.md`: Project overview and usage instructions
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - SQL (Joins, Aggregates, Window Functions)
 - Data Cleaning
 - Business Intelligence
 - Insight Communication
 
-## 🧰 Tech Stack
+## Tech Stack
 - SQL (PostgreSQL or MySQL)
 - Git + GitHub for version control
 - Excel/Tableau/Power BI (Optional, for visualizations)
 
-## 📌 Key Insights
+## Key Insights
 - Identified top 10 customers by revenue
 - Found region-wise performance breakdown
 - Analyzed monthly sales trends and profit margins
 
-## 📤 How to Run
+## How to Run
 1. Clone this repo
 2. Import `sales_data.csv` into your SQL environment
 3. Run the queries in `/queries/` sequentially
 
 ---
 
-📌 This project is built to showcase SQL for data analysis.
+
+This project is built to showcase SQL for data analysis.
